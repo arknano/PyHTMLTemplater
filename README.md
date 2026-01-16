@@ -4,34 +4,14 @@ PyHTMLTemplater is a simple Python script for generating HTML files using templa
 
 ## Prerequisites
 
-### Python Installation
-
-This project requires Python 3.7 or later.
-
-**Check if Python is installed:**
-```bash
-python --version
-```
-
-**Install Python:**
-- **Windows**: Download from [python.org](https://www.python.org/downloads/) and run the installer
-  - ⚠️ **Important**: Check "Add Python to PATH" during installation
-- **macOS**: `brew install python3`
-- **Linux**: `sudo apt-get install python3`
+Python 3.7 or later
 
 ## Usage
 
 ### Running the Build
 
-You can run the build process in several ways:
-
 #### Option 1: VS Code Build Task (Recommended)
-Press `Ctrl+Shift+B` (Windows/Linux) or `Cmd+Shift+B` (macOS) to run the default build task.
-
-**Or manually:**
-1. Open the Command Palette: `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
-2. Type "Run Build Task"
-3. Select "Build Site"
+Open the folder in VSCode and press `Ctrl+Shift+B` (Windows/Linux) or `Cmd+Shift+B` (macOS) to run the default build task.
 
 #### Option 2: Terminal - From Project Root
 Open a terminal and run:
