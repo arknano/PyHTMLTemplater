@@ -1,0 +1,17 @@
+    {
+      "version": "2.0.0",
+      "tasks": [
+        {
+          "label": "Build Site",
+          "type": "shell",
+          "command": "python build.py",
+          "group": {
+            "kind": "build",
+            "isDefault": true
+          },
+          "presentation": {
+            "reveal": "always"
+          }
+        }
+      ]
+    }
